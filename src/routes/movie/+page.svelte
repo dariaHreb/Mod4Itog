@@ -83,7 +83,7 @@ header {
 }
 
 .overview {
-    background-color: white;
+    background-color: rgb(246, 198, 216);
     padding: 20px;
     position: absolute;
     left: 0;
@@ -125,27 +125,27 @@ header {
             <span class="green">7.9</span>
         </div>
         <div class="overview">
-            <h3 id="Description">Описание фильма</h3>
+            <h3 id="Description">О дружбе и приключениях маленькой озорной девочки Маши и ее заботливого друга Медведя.</h3>
         </div>
     </div>
     
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <h3 id="MovieTitle">Крепкий Орешек</h3>
-            <span class="green">9.8</span>
+            <h3 id="MovieTitle">Сказочный патруль</h3>
+            <span class="green">7.8</span>
         </div>
         <div class="overview">
-            <h3 id="Description">Описание фильма</h3>
+            <h3 id="Description"> российский анимационный детский мультсериал студии «Паровоз». Повествует о приключениях четырёх девочек-волшебниц, приехавших в город Мышкин. </h3>
         </div>
     </div>
     
     <div class="movie" id="movie">
         <div class="movie-info" id="MovieInfoDiv">
-            <h3 id="MovieTitle">Крепкий Орешек</h3>
-            <span class="green">9.8</span>
+            <h3 id="MovieTitle">Удивительный мир гамбола</h3>
+            <span class="green">9.9</span>
         </div>
         <div class="overview">
-            <h3 id="Description">Описание фильма</h3>
+            <h3 id="Description">англо-американский мультсериал производства телеканала Cartoon Network, выпущенный в эфир 3 мая 2011 года в Великобритании, 9 мая того же года — в США</h3>
         </div>
     </div>
 </main>
